@@ -149,7 +149,7 @@
             <div class = "categorie_container">
                 <h3 class = "categorie" id = "arts_et_industries_culturelles">Arts et industries culturelles</h3>
                 <div class = "sous_categories_container">
-                    <a class = "sous_categorie"><p>filière</p></a>
+                    <a class = "sous_categorie" href = "filiere.php"><p>filière</p></a>
                     <a class = "sous_categorie"><p>filière</p></a>
                     <a class = "sous_categorie"><p>filière</p></a>
                     <a class = "sous_categorie"><p>filière</p></a>

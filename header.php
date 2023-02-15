@@ -7,7 +7,7 @@
                 </a>
             </div>
             <div id = "nav_bar">
-                <a id = "acceuil">Acceuil</a>
+                <a id = "acceuil" href="index.php">Acceuil</a>
                 <div class="header_deroulant_container">
                     <div  id = "_metiers_header">
                         <div class = "diplome_ecole_metier" onclick="afficherListe('liste_metiers_header')">
