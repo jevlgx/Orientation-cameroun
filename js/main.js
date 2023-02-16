@@ -48,4 +48,14 @@ function afficherListe(id) {
     } */
 }
 
-//ecouter le clic en dehors des listes déroulantes du header
+function gestionSvgDeSummary(id){
+    div = document.getElementById(id);
+    if(div.className == "ferme"){
+        div.className = "ouvert";
+        div.style.transform = "rotate(90deg)";
+    }
+    else{
+        div.className = "ferme";
+        div.style.transform = "rotate(0deg)";
+    }
+}
